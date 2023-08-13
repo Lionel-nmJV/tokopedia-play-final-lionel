@@ -1,5 +1,5 @@
 # tokopedia-play-final-lionel
-For the [DEMO VIDEO](https://gist.github.com/Lionel-nmJV/3a5588d5a0ca0ac96deccb444c354e47)
+For the [DEMO VIDEO](https://youtu.be/RJj0DvGP8eY))
 
 ## This readme just show only for the React (frontend) for tokopedia-play for the Server(backend) you can still see at 'server' file.
 
