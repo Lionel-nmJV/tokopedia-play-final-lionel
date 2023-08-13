@@ -78,7 +78,7 @@ mongosh "mongodb+srv://cluster0.4bkzqig.mongodb.net/" --apiVersion 1 --username 
 
 And put the password "2804"
 
-Run the server, and it will run at port 3000
+Run the server, and it will run at port 8800
 ```bash
 npm start
 ```
